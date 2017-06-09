@@ -1,6 +1,7 @@
 # Thermostat Challenge
 
 * Makers Academy week 5 - introduction to JavaScript.
+* Pair-coded.
 * A thermostat app.
 * Temperature can be raised, lowered or reset.  Power-saving mode decreases the maximum temperature from 32 to 25 degrees.
 * You can play with it <a href="https://allbecauseyoutoldmeso.github.io/thermostat-challenge">here</a>.
